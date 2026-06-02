@@ -1,1 +1,3 @@
 # databricks-zero-to-ninja
+
+Este proyecto tiene como objetivo guiarte paso a paso en el aprendizaje y uso de Apache Spark desde cero, utilizando Databricks como plataforma principal. Aprenderás a procesar grandes volúmenes de datos, realizar análisis avanzados y construir pipelines de datos eficientes, todo desde un entorno colaborativo y escalable. Ideal para quienes desean convertirse en expertos en Spark partiendo desde los conceptos más básicos hasta técnicas avanzadas.
